@@ -8,6 +8,7 @@ public class Git_test {
         System.out.println("sdgfhgjh");
         System.out.println("master push");
         System.out.println("master pull");
+        System.out.println("gitee commit");
 
 
     }
